@@ -30,3 +30,5 @@ For Assessments, each team must create their **own private GitHub repo**, with:
 ```bash
 git clone https://github.com/<org-or-user>/finm3422.git
 cd finm3422
+
+closed repo
