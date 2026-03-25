@@ -38,4 +38,4 @@ Student Oscar successfully cloned the repo.
 
 Oscar successfully cloned the repo
 
-Student: Juhan successfully cloned the repo.
+Juhan successfully clones the repo.
