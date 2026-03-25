@@ -37,3 +37,6 @@ Student: Hifza successfully cloned the repo
 Student Oscar successfully cloned the repo.
 
 Oscar successfully cloned the repo
+Student: charlie successfully
+
+Student: charlie successfully cloned the repo.
