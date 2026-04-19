@@ -41,3 +41,5 @@ read me
 
 Student: Dylan successfully cloned the repo.
 Oscar successfully cloned the repo
+
+Student: Will successfully cloned the repo
