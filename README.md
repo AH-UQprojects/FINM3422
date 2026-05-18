@@ -41,3 +41,5 @@ read me
 
 Student: Dylan successfully cloned the repo.
 Oscar successfully cloned the repo
+Student: Pooya successfully cloned the repo.
+this is my lecture 6 demo update
